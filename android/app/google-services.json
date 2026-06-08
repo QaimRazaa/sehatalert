@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "455239736792",
+    "project_id": "sehatalert-74483",
+    "storage_bucket": "sehatalert-74483.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455239736792:android:3750731a275b5d8b9b66ad",
+        "android_client_info": {
+          "package_name": "com.example.sehatalert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455239736792-48p6c2j0c5eddilva2jntamlsfj44fh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmj1ZoxCY_gteRHQMEF1V2UDq9Z5tNPMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455239736792-48p6c2j0c5eddilva2jntamlsfj44fh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
